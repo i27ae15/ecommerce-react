@@ -4,7 +4,7 @@ import Home from './components/routes/home/Home.component'
 import { Routes, Route } from 'react-router-dom'
 
 import Navigation from './components/routes/navigation/Navigation.component'
-import SingIn from './components/routes/sign-in/Sing-in.component'
+import SingIn from './components/routes/authentication/authentication.component'
 
 
 const Shop = () => {
